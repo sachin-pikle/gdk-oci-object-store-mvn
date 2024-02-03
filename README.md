@@ -1,5 +1,5 @@
 # gcn-oci-object-store-mvn
-GCN OCI Object Storage Maven example
+This repo contains the sample code used in the Live Labs workshop --> [Build a Java application with Graal Cloud Native and Oracle Cloud Infrastructure Object Storage](https://apexapps.oracle.com/pls/apex/f?p=133:180:11329413485967::::wid:3858)
 
 ## Micronaut 4.2.1 Documentation
 
