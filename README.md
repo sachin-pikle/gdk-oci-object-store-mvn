@@ -1,11 +1,11 @@
 # gcn-oci-object-store-mvn
 GCN OCI Object Storage Maven example
 
-## Micronaut 4.0.6 Documentation
+## Micronaut 4.2.1 Documentation
 
-- [User Guide](https://docs.micronaut.io/4.0.6/guide/)
-- [API Reference](https://docs.micronaut.io/4.0.6/api/)
-- [Configuration Reference](https://docs.micronaut.io/4.0.6/guide/configurationreference.html)
+- [User Guide](https://docs.micronaut.io/4.2.1/guide/)
+- [API Reference](https://docs.micronaut.io/4.2.1/api/)
+- [Configuration Reference](https://docs.micronaut.io/4.2.1/guide/configurationreference.html)
 - [Micronaut Guides](https://guides.micronaut.io/)
 ---
 - [Micronaut Maven Plugin documentation](https://micronaut-projects.github.io/micronaut-maven-plugin/latest/)
