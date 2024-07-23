@@ -20,7 +20,7 @@ limitations under the License.
     <parent>
         <groupId>io.micronaut.platform</groupId>
         <artifactId>micronaut-parent</artifactId>
-        <version>4.3.7-oracle-00001</version>
+        <version>4.5.0-oracle-00001</version>
     </parent>
     <repositories>
         <repository>
@@ -28,7 +28,7 @@ limitations under the License.
           <url>https://repo.maven.apache.org/maven2</url>
         </repository>
         <repository>
-          <id>gcn</id>
+          <id>gdk</id>
           <url>https://maven.oracle.com/public</url>
         </repository>
     </repositories>
